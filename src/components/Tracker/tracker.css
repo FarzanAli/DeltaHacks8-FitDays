@@ -1,0 +1,53 @@
+.tracker-container{
+    width: 450px;
+    height: 1000px;
+    background-color: #353535;
+    border-radius: 20px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.stats-container{
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.stats-container > div{
+    margin-top: 20px;
+}
+.value-container{
+    font-size: 30px;
+    color: #BB86FC;
+}
+
+.result-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.result-button{
+    margin-top: 50px;
+    font-family: 'Inter', sans-serif;
+    background-color: transparent;
+    border: none;
+    color: #BB86FC;
+    padding: 15px;
+    font-weight: 700;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.result-button:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+    transition: background-color 0.5s;
+}
+
+.result{
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
