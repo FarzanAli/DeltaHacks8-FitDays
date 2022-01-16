@@ -1,3 +1,19 @@
+-------------------------------------------------------------------------------------------------------------------------
+January 16, 2022
+
+This application uses an algorithm that syncs your FitBit data to our secure servers and provides insightful
+information about whether or not you should workout on any given day. 
+
+We understand how difficult this pandemic has been for everyone and how hard it has been to keep up with physical 
+fitness for the past two years. This application has been created to motivate YOU to workout while keeping other 
+important health data in mind. 
+
+Until we meet in our future endeavors, stay safe. 
+
+Team FitDays
+
+-------------------------------------------------------------------------------------------------------------------------
+
 **Note: `rest_api.py` must be running for react application to fetch user info.**
 
 # Getting Started with Create React App
