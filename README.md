@@ -12,6 +12,9 @@ Until we meet in our future endeavors, stay safe.
 
 Team FitDays
 
+![image](https://user-images.githubusercontent.com/56518530/151607598-0c55f6e8-190c-4fe7-8be0-4877cbb23316.png)
+
+
 -------------------------------------------------------------------------------------------------------------------------
 
 **Note: `rest_api.py` must be running for react application to fetch user info.**
